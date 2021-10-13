@@ -24,7 +24,7 @@ Documentation for the N2SN
    * https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
 - DNS registration   
    
-   Wording is crytical, and to add to Internal and Science requiers:
+   Wording is critical, and to add to Internal and Science requiers:
    "Please add 'IP dns_name' to both Interanl and Science DNS views" 
    * https://bnlprod.servicenowservices.com/nsls2
 - Jira
@@ -42,5 +42,5 @@ Documentation for the N2SN
 - Nagios
    
    System and network monitoring
-   https://mon.nsls2.bnl.gov/nagios/
+   * https://mon.nsls2.bnl.gov/nagios/
 
