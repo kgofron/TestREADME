@@ -3,8 +3,8 @@
 N2SN Docs
 =========
 
-Documentation for the N2SN
-* [https://code.nsls2.bnl.gov/docs/n2sndocs]
+Documentation for the N2SN 
+[https://code.nsls2.bnl.gov/docs/n2sndocs]
 
 - Docs
 
