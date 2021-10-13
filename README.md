@@ -8,14 +8,18 @@ Documentation for the N2SN
 
 
 - Docs
+- 
 https://docs.nsls2.bnl.gov
 - Helpdesk
+- 
 http://helpdesk.NSLS2.bnl.gov
 
 - Guacamole
+- 
 https://remote.nsls2.bnl.gov
 
 - NX
+
 https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
 
 - DNS registration
@@ -25,16 +29,20 @@ https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
    https://bnlprod.servicenowservices.com/nsls2
 
 - Jira
+- 
 https://jira.nsls2.bnl.gov
 
 - Ansible Tower
-Automation controller
+
+   Automation controller
 
 - Satellite
 
 - Splunk
-system logfiles
-https://splunk.bnl.gov
+
+   system logfiles
+   https://splunk.bnl.gov
 - Nagios
-https://mon.nsls2.bnl.gov/nagios/
+
+   https://mon.nsls2.bnl.gov/nagios/
 
