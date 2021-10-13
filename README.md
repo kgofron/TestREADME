@@ -37,11 +37,12 @@ Documentation for the N2SN
    Automation controller
 
 - Satellite
+   https://explorer.nsls2.bnl.gov
 
 - Splunk
 
    system logfiles
-   https://splunk.bnl.gov
+   * https://splunk.bnl.gov
 - Nagios
 
    https://mon.nsls2.bnl.gov/nagios/
