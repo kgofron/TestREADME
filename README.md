@@ -19,6 +19,7 @@ https://remote.nsls2.bnl.gov
 https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
 
 - DNS registration
+   
    Wording is crytical, and to add to Internal and Science requiers:
    "Please add 'IP dns_name' to both Interanl and Science DNS views" 
    https://bnlprod.servicenowservices.com/nsls2
