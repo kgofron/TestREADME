@@ -8,39 +8,35 @@ Documentation for the N2SN
 
 
 - Docs
-
-   https://docs.nsls2.bnl.gov
+   DSSI documentation
+   * https://docs.nsls2.bnl.gov
 - Helpdesk
-
-   http://helpdesk.NSLS2.bnl.gov
+   Help requests
+   * http://helpdesk.NSLS2.bnl.gov
 
 - Guacamole
-
-   https://remote.nsls2.bnl.gov
+   Remote access
+   * https://remote.nsls2.bnl.gov
 
 - NX
-
-   https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
+   Remote access
+   * https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
 
 - DNS registration
    
    Wording is crytical, and to add to Internal and Science requiers:
    "Please add 'IP dns_name' to both Interanl and Science DNS views" 
-   https://bnlprod.servicenowservices.com/nsls2
+   * https://bnlprod.servicenowservices.com/nsls2
 
 - Jira
-
-   https://jira.nsls2.bnl.gov
-
-- Ansible Tower
-
-   Automation controller
+   Issue tracking, and project-management applicaiton
+   * https://jira.nsls2.bnl.gov
 
 - Satellite
-   https://explorer.nsls2.bnl.gov
+   Ansible Tower automation
+   * https://explorer.nsls2.bnl.gov
 
 - Splunk
-
    system logfiles
    * https://splunk.bnl.gov
 - Nagios
