@@ -18,27 +18,22 @@ https://remote.nsls2.bnl.gov
 - NX
 https://nxcloud01.nsls2.bnl.gov:4443/nxwebplayer
 
-# System management
-## DNS registration
+- DNS registration
 Wording is crytical, and to add to Internal and Science requiers:
 - "Please add 'IP dns_name' to both Interanl and Science DNS views" 
 https://bnlprod.servicenowservices.com/nsls2
 
-# Change requests and provisioning
-
-## Jira
+- Jira
 https://jira.nsls2.bnl.gov
 
-## Ansible Tower
+- Ansible Tower
 Automation controller
-ansible1
 
-## Satellite
+- Satellite
 
-# Monitoring & Diagnostics
-## Splunk
+- Splunk
 system logfiles
 https://splunk.bnl.gov
-## Nagios
+- Nagios
 https://mon.nsls2.bnl.gov/nagios/
 
