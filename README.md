@@ -31,6 +31,8 @@ Documentation for the N2SN
    
    Issue tracking, and project-management application
    * https://jira.nsls2.bnl.gov
+   Project
+   * https://jira.nsls2.bnl.gov/projects/DPP/queues/custom/31/DPP-3
 - Satellite
    
    Ansible Tower automation
