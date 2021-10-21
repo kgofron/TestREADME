@@ -46,7 +46,7 @@ Documentation for the N2SN
    
    System and network monitoring
    * https://mon.nsls2.bnl.gov/nagios/
-- IP
+- IP network
    
-   IP Management
+   NSLS2 IP management
    * https://ip.nsls2.bnl.gov/
