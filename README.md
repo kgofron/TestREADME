@@ -50,3 +50,9 @@ Documentation for the N2SN
    
    NSLS2 IP management
    * https://ip.nsls2.bnl.gov/
+
+- Patching book
+
+   GPFS section 
+   * https://nsls2.slack.com/archives/C01RBFN4M9Q/p1627678116005300
+
