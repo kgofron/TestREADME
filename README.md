@@ -56,3 +56,7 @@ Documentation for the N2SN
    GPFS section 
    * https://nsls2.slack.com/archives/C01RBFN4M9Q/p1627678116005300
 
+- Sharepoint
+   * https://brookhavenlab.sharepoint.com/sites/NSLS2DSSI
+   * https://www.nsls2.bnl.gov/docs/index.html (docs.nsls2.bnl.gov)
+
