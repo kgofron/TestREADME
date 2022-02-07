@@ -60,3 +60,7 @@ Documentation for the N2SN
    * https://brookhavenlab.sharepoint.com/sites/NSLS2DSSI
    * https://www.nsls2.bnl.gov/docs/index.html (docs.nsls2.bnl.gov)
 
+- DHCP
+  
+    * https://code.nsls2.bnl.gov/devops/dhcpd-boot
+    * Lab s410: https://code.nsls2.bnl.gov/devops/dhcpd-boot/-/blob/production/dhcpd.conf.s410
